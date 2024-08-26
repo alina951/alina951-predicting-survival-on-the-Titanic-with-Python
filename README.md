@@ -1,1 +1,1 @@
-# alina951-predicting-survival-on-the-Titanic-with-Python
+# predicting-survival-on-the-Titanic-with-Python
